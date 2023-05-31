@@ -1,0 +1,11 @@
+{
+    "name": "vendor/blog-app",
+    "description": "Description of project blog_app.",
+    "authors": [
+        {
+            "name": "paulo",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
